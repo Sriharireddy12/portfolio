@@ -17,4 +17,4 @@ I am a beginner in Cybersecurity and SOC Analyst domain, currently learning Linu
 - Splunk
 
 ## Contact
-Email: your-email@example.com
+Email: sreeharireddy26@gmail.com
